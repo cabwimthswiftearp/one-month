@@ -22,14 +22,14 @@ div{
     width: auto;
     font-size: 25px;
     font-family: 'Teko', sans-serif;
-    color: #87889c;
+    color: #whitesmoke;
     padding: 15px;
 }
 
 p{
     font-family: 'Teko', sans-serif;
     font-size: 27px;
-    color: #bea9de;
+    color: whitesmoke;
 }
 
 .echoes, .remember{
