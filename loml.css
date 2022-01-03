@@ -22,14 +22,14 @@ div{
     width: auto;
     font-size: 25px;
     font-family: 'Teko', sans-serif;
-    color: whitesmoke;
+    color: #87889c;
     padding: 15px;
 }
 
 p{
     font-family: 'Teko', sans-serif;
     font-size: 27px;
-    color: whitesmoke;
+    color: #bea9de;
 }
 
 .echoes, .remember{
@@ -67,10 +67,10 @@ a{
 
 a:hover{
     font-size: 35px;
-    color:black;
+    color:mintcream;;
     background-color: mintcream;
     font-family: impact;
-    border: 5px mintcream double;
+    border: 5px blanchedalmond double;
     padding: 5px;
     text-decoration: none;
     margin-left: auto;
